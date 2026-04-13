@@ -1,0 +1,7 @@
+# Sales Office
+
+This screen configures sales offices, which function as specialized operational units within the sales organization hierarchy. These offices serve as localized hubs that facilitate and manage sales activities within designated geographical territories or market segments. Each sales office operates as a distinct entity that coordinates customer engagement, order processing, and delivery coordination while maintaining responsibility for post-sales support within its assigned region. The office structure provides essential infrastructure for sales teams, enabling efficient territory management and serving as a centralized point for monitoring regional performance metrics. These offices maintain direct connections with their assigned sales personnel while feeding critical operational data into the broader organizational reporting framework, allowing for both localized decision-making and consolidated corporate oversight of sales activities across all regions.
+
+The configuration establishes the sales office's operational parameters within the system, linking it to relevant sales teams while maintaining its position within the larger sales organization structure. This setup ensures proper assignment of customer accounts, accurate order routing, and appropriate responsibility for service follow-up while providing management with clear visibility into regional performance through standardized reporting channels.
+
+<figure><img src="../../../../.gitbook/assets/bandicam 2025-07-21 15-03-59-067.gif" alt=""><figcaption></figcaption></figure>
